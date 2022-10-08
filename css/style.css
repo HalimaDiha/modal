@@ -1,0 +1,9 @@
+.h_one{
+	margin-top: 10px;
+	padding: 30px;
+	font-size: 30px;
+	text-transform: capitalize;
+	text-align: center;
+	color: white;
+	background-color: #737373c4;
+}
